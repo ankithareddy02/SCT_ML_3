@@ -1,0 +1,10 @@
+# 📂 Dataset
+# The dataset can be downloaded from Kaggle:
+# https://www.kaggle.com/competitions/dogs-vs-cats/overview
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+opencv-python
